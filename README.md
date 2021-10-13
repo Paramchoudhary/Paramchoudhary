@@ -19,5 +19,5 @@ const profile = {
 ```
 
 📫 Contact me on: 
-    - [Twitter](https://twitter.com/param__25)
+    - [Twitter](https://twitter.com/Param_Code)
 
