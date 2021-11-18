@@ -11,7 +11,7 @@ const profile = {
  programmingSkills: {
     clientSoftware: ["HTML","CSS" "JavaScript", "JSON", "React"],
     serverSoftware: ["Node.js", "Express.js", "MongoDB", "Firebase"]
-    programming_lang:["Java","Solidity"]
+    programming_lang:["Javascript","Solidity",Rust,Java]
         },
   languages: ["hindi", "English"],
   currentFocus: "Creating 'the next big thing' "
