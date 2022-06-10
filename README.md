@@ -1,6 +1,6 @@
 <h2> Hi there, I am Param!</h2>
 <img align='right' src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width="230" eight="230">
-<p><em> self-taught developer 👨‍💻</em></p>
+<p><em> self-taught web3 developer 👨‍💻</em></p>
 
 
 ### <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="50"> A little more about me...  
@@ -19,5 +19,5 @@ const profile = {
 ```
 
 📫 Contact me on: 
-    - [Twitter](https://twitter.com/Param_Code)
+    - [Twitter](https://twitter.com/Param_eth)
 
