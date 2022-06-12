@@ -9,9 +9,9 @@
 const profile = {
  fullName: "Param Choudhary",
  programmingSkills: {
-    clientSoftware: ["HTML","CSS" "JavaScript", "JSON", "React"],
-    serverSoftware: ["Node.js", "Express.js", "MongoDB", "Firebase"]
-    programming_lang:["Javascript","Solidity","Rust","Java"]
+    clientSoftware: ["HTML","CSS" "JavaScript", "Tailwind CSS", "React"],
+    serverSoftware: ["Node.js","Truffle","Hardhat"]
+    programming_lang:["Javascript","Solidity","Python","Java"]
         },
   languages: ["hindi", "English"],
   currentFocus: "Creating 'the next big thing' "
