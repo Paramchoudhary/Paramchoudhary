@@ -10,7 +10,7 @@ const profile = {
  fullName: "Param Choudhary",
  programmingSkills: {
     clientSoftware: ["HTML","CSS" "JavaScript", "Tailwind CSS", "React"],
-    serverSoftware: ["Node.js","Truffle","Hardhat"]
+    serverSoftware: ["Node.js","Truffle","Hardhat","foundry"],
     programming_lang:["Javascript","Solidity","Python","Java"]
         },
   languages: ["hindi", "English"],
